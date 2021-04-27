@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/flexport.design/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/flexport.design/static/js/main.c99b85f4.chunk.js",
-    "main.js.map": "/flexport.design/static/js/main.c99b85f4.chunk.js.map",
+    "main.js": "/flexport.design/static/js/main.9f113d9b.chunk.js",
+    "main.js.map": "/flexport.design/static/js/main.9f113d9b.chunk.js.map",
     "runtime-main.js": "/flexport.design/static/js/runtime-main.0ad3ce9e.js",
     "runtime-main.js.map": "/flexport.design/static/js/runtime-main.0ad3ce9e.js.map",
     "static/js/2.b3f0832f.chunk.js": "/flexport.design/static/js/2.b3f0832f.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/flexport.design/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/flexport.design/static/css/main.9d5b29c0.chunk.css.map",
     "static/js/2.b3f0832f.chunk.js.LICENSE.txt": "/flexport.design/static/js/2.b3f0832f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/flexport.design/static/media/logo.6ce24c58.svg"
+    "static/media/logo.5e9d3fc8.svg": "/flexport.design/static/media/logo.5e9d3fc8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0ad3ce9e.js",
     "static/js/2.b3f0832f.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.c99b85f4.chunk.js"
+    "static/js/main.9f113d9b.chunk.js"
   ]
 }
