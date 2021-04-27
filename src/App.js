@@ -9,14 +9,8 @@ function App() {
         <p>
           Flexport UX
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p><a href="https://www.flexport.com/design">Latitude</a> is our jam.</p>
+        <p><a href="https://www.flexport.com/careers/teams/user-experience/">Come work with us!</a></p>
       </header>
     </div>
   );
