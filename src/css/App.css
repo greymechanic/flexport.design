@@ -17,15 +17,18 @@
 
 /*
  *
- * BASIC STYLES
+ * Colors (update these lol)
  *
  */
-
-.container {
-  max-width: 1080px;
-  margin: 0 auto;
+.bg-fp-blue {
+  background-color: #326089;
 }
-
-h1 {
-  font-size: xx-large;
+.bg-fp-yellow {
+  background-color: #f5954d;
+}
+.bg-fp-red {
+  background-color: #fa5959;
+}
+.bg-fp-purple {
+  background-color: #7700a6;
 }
