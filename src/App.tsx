@@ -1,11 +1,13 @@
-import './App.css';
+import './css/App.css';
 import PageHeader from './components/PageHeader';
+import Cover from './components/Cover';
 import Principles from './components/Principles';
 
 function App() {
   return (
     <div className="App">
-      <PageHeader/>
+      {/* <PageHeader/> */}
+      <Cover/>
       <div className="container">
         <Principles />
       </div>
