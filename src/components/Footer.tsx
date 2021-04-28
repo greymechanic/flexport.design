@@ -3,7 +3,7 @@ import mark from "../assets/logomark-bw-light.png"
 const Footer = () => {
   return (
     <footer className="pv4 ph3 ph5-ns tc">
-      <a className="link dim gray dib h2 w2 br-100 mr3 pa2 bg-near-white ba b--black-10" href="https://medium.com/flexport-design" title="">
+      <a className="link dim gray dib h2 w2 br-100 mr3 pa2 bg-near-white ba b--black-10" href="https://flexport.com" title="">
       <img src={mark} alt="placeholder"/>
       </a>
       <a className="link dim gray dib h2 w2 br-100 mr3 pa2 bg-near-white ba b--black-10" href="https://medium.com/flexport-design" title="">
