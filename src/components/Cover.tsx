@@ -1,4 +1,3 @@
-import logo from '../assets/logo.svg';
 import banner from '../assets/pink.png';
 
 const Cover = () => {
