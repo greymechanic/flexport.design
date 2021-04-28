@@ -1,12 +1,11 @@
 import './css/App.css';
-import PageHeader from './components/PageHeader';
 import Cover from './components/Cover';
 import Principles from './components/Principles';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="App">
-      {/* <PageHeader/> */}
       <Cover/>
       <div className="container">
         <Principles />
@@ -17,6 +16,7 @@ function App() {
        <div>
          <p><a href="https://www.flexport.com/careers/teams/user-experience/">Come work with us!</a></p>
       </div>
+      <Footer/>
     </div>
   );
 }
