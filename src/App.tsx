@@ -1,21 +1,16 @@
 import './css/App.css';
 import Cover from './components/Cover';
 import Principles from './components/Principles';
+import Main from './components/Main';
+import Jobs from "./components/Jobs";
 import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div className="sans-serif">
       <Cover/>
-      <div className="container">
-        <Principles />
-      </div>
-      <div>
-        <p><a href="https://www.flexport.com/design">Latitude</a> is our jam.</p>
-      </div>
-       <div>
-         <p><a href="https://www.flexport.com/careers/teams/user-experience/">Come work with us!</a></p>
-      </div>
+      <Main />
+      <Jobs/>
       <Footer/>
     </div>
   );
